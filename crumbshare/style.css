@@ -1,0 +1,31 @@
+.atas {
+    background: linear-gradient(198deg, rgba(30,30,30,0.69)0%, rgba(217,217,217,0)83.69%);
+    display: flex;
+    align-items: flex-start;
+}
+.nav-color{
+    background-color: rgb(204, 202, 202);
+    transition: all ease-in-out 0.3s;
+}
+.overlay-group{
+    background: linear-gradient(185deg, rgba(146, 145, 145, 0.69)-20%, rgba(248, 246, 246, 0)93.69%);
+    padding: 90px;
+};
+.col-8{
+    padding: 40px 10px 10px 30px;
+    margin : 80px;
+}
+
+.logo{
+    margin-right : 8px;
+}
+
+button{
+    margin-top: 30px;
+    padding: 4px 12px 4px 12px;
+    background-color: black;
+    border-style: solid;
+    border-radius: 12px;
+    color: white;
+}
+
